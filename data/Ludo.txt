@@ -1,0 +1,35 @@
+Ludo (/ˈljuːdoʊ/; from Latin  ludo '[I] play') is a strategy board game for two to four[a] players, in which the players race their four tokens from start to finish according to the rolls of a single die. Like other cross and circle games, Ludo is derived from the Indian game Pachisi.[1] The game and its variations are popular in many countries and under various names. 
+
+Pachisi was created in India in the sixth century CE. It was modified to use a cubic die with a die cup and patented as "Ludo" in England in 1896.[b][2][3]  The Royal Navy took Ludo and converted it into the board game Uckers.[4]
+
+Special areas of the Ludo board are typically coloured bright yellow, green, red, and blue. Each player is assigned a colour and has four tokens[c] in their colour. The board is normally square with a cross-shaped playspace, with each arm of the cross having three columns of squares, usually six per column. The middle columns usually have five squares coloured; these represent a player's home column. A sixth coloured square not on the home column is a player's starting square. At the centre of the board is a large finishing square, often composed of coloured triangles atop the players' home columns (thus depicting "arrows" pointing to the finish).
+
+Rule No. 1: The game starts with each player choosing a set of four pieces (usually colored red, blue, green, and yellow) and placing them on the starting square.
+
+Rule No. 3: On each turn, players roll two dice to determine how many spaces they can move their pieces.
+
+Rule No. 4: The number on each die represents how many spaces a piece can move. For example, if a player rolls a 3 and a 6, they can move one piece 3 spaces and another piece 6 spaces.
+
+Rule No 8: If a player rolls a double (two 6s), they can move one piece the total number of spaces shown on the dice (e.g., 6 spaces for two 3s).
+
+Rule No. 9: if a player 3 pieces reached Home, only one is left. and the piece reached the home column. A person should be shifted to one Dice, if the player wants to play with 2 dice he/she gets the exact number which in the case of one, is not possible  
+
+Rule No. 10: If a player has no pieces on the board, they can only roll the dice to try to get a double, which allows them to enter a piece into play.
+
+Rule No. 11: The game ends when one player has all four pieces back on the starting square. That player is the winner.
+
+Two, three, or four can play, without partnerships.[d] At the beginning of the game, each player's four tokens are out of play and staged in the player's yard (one of the large corner areas of the board in the player's colour). When able to, the players enter their tokens one per turn on their respective starting squares and proceed to race them counterclockwise around the board along the game track (the path of squares not part of any player's home column). When reaching the square below their home column, a player continues by moving tokens up the column to the finishing square. The rolls of a single die[6][7] control the swiftness of the tokens, and entry to the finishing square requires a precise roll from the player. The first to bring all their tokens to the finish wins the game. The others often continue to play to determine second-, third-, and fourth-place finishers.
+
+Each player rolls a die; the highest roller begins the game. Players alternate turns in a clockwise direction. To enter a token into play from its yard to its starting square, a player must roll a six.[6][7] Players can draw a token from home every time they get a six unless home is empty or move a piece six times. The start box has two own tokens (is doubled). If the player has no tokens yet in play and rolls other than a six, the turn passes to the next player.
+
+Players must always move a token according to the die value rolled. Once players have one or more tokens in play, they select a token and move it forwards along the track the number of squares indicated by the die. If a token advances onto a spot occupied by opponent's token then the opposing token is returned back to its respective home point. This forces the opponent to roll another 6 to take it out of their home and move it again.[8] If a token advances onto a spot occupied by a token of the same colour, then they create something that is called a "block".[5] If an opposing token lands on the same spot as the block, the advancing token is returned back to its respective home point.[8][9][10]
+
+If the player cannot draw a token from home, rolling a six earns the player an additional or "bonus" roll in that turn. If the bonus roll results in a six again, the player earns again an additional bonus roll.[e] If the third roll is also a six, the player may not move and the turn immediately passes to the next player.
+
+A player's home column squares are always safe, since no opponent may enter them. In the home column, a player cannot jump over; after one rotation is completed, the player must enter the home and roll the exact number needed to get each token onto the home triangle..
+
+Ludo exists under different names and brands, and in various game derivations:[11]
+
+The Latvian version of the game is called "Riču-Raču". The board is larger than the original board with seven home spaces instead of four (but the player must always reach the four farthest home spaces anyway, if the player overrolls, then they must move the extra spaces back and wait for their next turn). Captures are allowed and two tokens cannot occupy the same space. If a player rolls a one or a six, they can either get a second roll or move a token to the starting position.
+
+In some parts of Africa including Nigeria, Botswana, Kenya, Lesotho and South Africa, the following rules are reportedly played:

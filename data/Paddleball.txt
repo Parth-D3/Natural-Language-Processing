@@ -1,0 +1,1 @@
+Paddle ball is a one-person game played with a paddle and an attached ball. Using the flat paddle with the small rubber ball attached at the center via an elastic string, the player tries to hit the ball with the paddle in succession as many times as possible.
